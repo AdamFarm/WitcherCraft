@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wc",
+  "name": "Witcher Craft",
+  "description": "My first mod",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GMan"],
+  "credits": "Witcher Amulet: https://www.pinterest.com/explore/witcher-medallion/",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
