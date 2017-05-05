@@ -18,10 +18,7 @@ public class CommonProxy {
         config = new Configuration(new File(directory.getPath(), "modtut.cfg"));
         Config.readConfig();
         
-        // Initialization of blocks and items typically goes here:
-        //ModBlocks.init();
         ModItems.init();
-        //ModCrafting.init();
     }
 
     public void init(FMLInitializationEvent e) {
